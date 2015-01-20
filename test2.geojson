@@ -1,0 +1,17 @@
+{"name": "test.geojson", "type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "TOPONIMO": "coffee", "COMENTARIO": "Los Huguerones" }, "geometry": { "type": "Point", "coordinates": [ 2.51827, -76.71945 ] } }
+,
+{ "type": "Feature", "properties": { "TOPONIMO": "coffee", "COMENTARIO": "El Pastal" }, "geometry": { "type": "Point", "coordinates": [ 2.5168,	-76.71817 ] } }
+,
+{ "type": "Feature", "properties": { "TOPONIMO": "coffee", "COMENTARIO": "Los Higuerones" }, "geometry": { "type": "Point", "coordinates": [ 2.51827, -76.71945 ] } }
+,
+{ "type": "Feature", "properties": { "TOPONIMO": "coffee", "COMENTARIO": "El Wiambu }, "geometry": { "type": "Point", "coordinates": [ 2.52194, -76.72121 ] } }
+,
+{ "type": "Feature", "properties": { "TOPONIMO": "coffee", "COMENTARIO": "El Aguacate" }, "geometry": { "type": "Point", "coordinates": [ 2.52172, -76.72691 ] } }
+,
+{ "type": "Feature", "properties": { "TOPONIMO": "coffee", "COMENTARIO": "Los Cerros" }, "geometry": { "type": "Point", "coordinates": [ 2.52986, -76.71663 ] } }
+]
+}
+
