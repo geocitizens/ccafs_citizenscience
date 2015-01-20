@@ -1,5 +1,4 @@
-{
-"type": "FeatureCollection",
+{"name":"test.geojson","type": "FeatureCollection",
                                                                                 
 "features": [
 { "type": "Feature", "properties": { "TOPONIMO": "coffee", "COMENTARIO": "Los Huguerones" }, "geometry": { "type": "Point", "coordinates": [ 2.51827, -76.71945 ] } }
